@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.log
+mariadb_data/
+redis_data/
+certbot/conf/*
+certbot/www/*
+monitoring/data/
+.vscode/
+.idea/
+

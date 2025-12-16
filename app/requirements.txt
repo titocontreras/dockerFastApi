@@ -1,0 +1,11 @@
+fastapi
+gunicorn
+uvicorn[standard]
+redis
+
+SQLAlchemy>=2.0
+asyncmy
+
+python-dotenv
+
+slowapi
