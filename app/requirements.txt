@@ -9,3 +9,5 @@ asyncmy
 python-dotenv
 
 slowapi
+python-jose[cryptography]
+passlib[bcrypt]
